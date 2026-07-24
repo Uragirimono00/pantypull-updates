@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0",
-  "url": "https://raw.githubusercontent.com/Uragirimono00/pantypull-updates/main/PantyPull_v2.0.0.unitypackage.enc",
-  "notes": "NDMF component-based setup (v2.0.0)"
+  "version": "2.0.1",
+  "url": "https://raw.githubusercontent.com/Uragirimono00/pantypull-updates/main/PantyPull_v2.0.1.unitypackage.enc",
+  "notes": "안정성 업데이트: 원본 블렌드셰이프 보존, 당김 시 검은 음영 수정, 치비 체형 지원 개선, 옷장 토글 호환성 강화"
 }
