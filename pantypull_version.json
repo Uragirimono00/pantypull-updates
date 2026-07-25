@@ -1,5 +1,5 @@
 {
-  "version": "2.0.2",
-  "url": "https://raw.githubusercontent.com/Uragirimono00/pantypull-updates/main/PantyPull_v2.0.2.unitypackage.enc",
-  "notes": "Fixes: outfits fitted with MA Scale Adjuster now generate at the correct size / stale pre-bakes are re-baked automatically before Play (no more broken physbones or missing menu in Gesture Manager after changing settings) / Face Anim + Show When Down combo no longer corrupts the controller / moving the Show When Down object now invalidates the pre-bake"
+  "version": "2.0.3",
+  "url": "https://raw.githubusercontent.com/Uragirimono00/pantypull-updates/main/PantyPull_v2.0.3.unitypackage.enc",
+  "notes": "Added: support for add-on butt/thigh bones, menu install location option, update check button"
 }
