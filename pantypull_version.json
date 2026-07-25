@@ -1,5 +1,5 @@
 {
-  "version": "2.0.1",
-  "url": "https://raw.githubusercontent.com/Uragirimono00/pantypull-updates/main/PantyPull_v2.0.1.unitypackage.enc",
-  "notes": "안정성 업데이트: 원본 블렌드셰이프 보존, 당김 시 검은 음영 수정, 치비 체형 지원 개선, 옷장 토글 호환성 강화"
+  "version": "2.0.2",
+  "url": "https://raw.githubusercontent.com/Uragirimono00/pantypull-updates/main/PantyPull_v2.0.2.unitypackage.enc",
+  "notes": "Fixes: outfits fitted with MA Scale Adjuster now generate at the correct size / stale pre-bakes are re-baked automatically before Play (no more broken physbones or missing menu in Gesture Manager after changing settings) / Face Anim + Show When Down combo no longer corrupts the controller / moving the Show When Down object now invalidates the pre-bake"
 }
