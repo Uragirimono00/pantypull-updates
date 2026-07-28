@@ -1,5 +1,5 @@
 {
-  "version": "2.0.3",
-  "url": "https://raw.githubusercontent.com/Uragirimono00/pantypull-updates/main/PantyPull_v2.0.3.unitypackage.enc",
-  "notes": "Added: support for add-on butt/thigh bones, menu install location option, update check button"
+  "version": "2.0.4",
+  "url": "https://raw.githubusercontent.com/Uragirimono00/pantypull-updates/main/PantyPull_v2.0.4.unitypackage.enc",
+  "notes": "Fixed: dropped panty now stays where it fell (world-anchored), To Floor drop can be grabbed properly, build errors on long avatar names"
 }
