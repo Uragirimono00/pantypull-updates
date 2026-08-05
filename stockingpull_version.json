@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "url": "https://raw.githubusercontent.com/Uragirimono00/pantypull-updates/main/StockingPull_v1.0.1.unitypackage.enc",
-  "notes": "- Fixed: the converted garment could sit slightly off the leg (most visible on thigh-highs)\n- Fixed: Modular Avatar components on the garment were deleted before MA could apply them\n- Fixed: extra meshes lost their own blendshapes\n- Added: MA Blendshape Sync now carries over to the generated meshes\n- Added: warning when two StockingPulls use the same mesh\n- Added: Check for updates button in the inspector\n- Changed: MA mesh deletion is turned off on a converted garment, since it left a hole in the body once the garment came off\n- Please press Bake again after updating"
+  "version": "1.0.2",
+  "url": "https://raw.githubusercontent.com/Uragirimono00/pantypull-updates/main/StockingPull_v1.0.2.unitypackage.enc",
+  "notes": "- Fixed: a garment switched on by an MA Object Toggle is authored inactive, and entering play without baking first built nothing\n- Misc fixes"
 }
