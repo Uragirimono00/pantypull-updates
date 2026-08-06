@@ -1,5 +1,5 @@
 {
-  "version": "2.0.6",
-  "url": "https://raw.githubusercontent.com/Uragirimono00/pantypull-updates/main/PantyPull_v2.0.6.unitypackage.enc",
-  "notes": "Fixed: wardrobe toggles with Invert condition enabled hid the generated meshes backwards. Recovered 16 bits of sync budget (GestureLeft / GestureRight are no longer synced). Misc fixes."
+  "version": "2.0.7",
+  "url": "https://raw.githubusercontent.com/Uragirimono00/pantypull-updates/main/PantyPull_v2.0.7.unitypackage.enc",
+  "notes": "- Fixed: a panty switched on by an MA Object Toggle was skipped by the automatic pre-play bake\n- Fixed: a panty inside an outfit-switching menu (multiple menu items sharing one parameter) could disappear on avatar load\n- Misc fixes"
 }
