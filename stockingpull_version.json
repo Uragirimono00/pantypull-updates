@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
-  "url": "https://raw.githubusercontent.com/Uragirimono00/pantypull-updates/main/StockingPull_v1.0.2.unitypackage.enc",
-  "notes": "- Fixed: a garment switched on by an MA Object Toggle is authored inactive, and entering play without baking first built nothing\n- Misc fixes"
+  "version": "1.0.3",
+  "url": "https://raw.githubusercontent.com/Uragirimono00/pantypull-updates/main/StockingPull_v1.0.3.unitypackage.enc",
+  "notes": "- Fixed: a garment inside an outfit-switching menu (multiple menu items sharing one parameter) could disappear on avatar load\n- Fixed: unrelated warnings from other assets no longer appear during bake\n- Fixed: two garments with the same name overwrote each other's files\n- Misc fixes and clearer build messages"
 }
